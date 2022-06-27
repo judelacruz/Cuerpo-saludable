@@ -1,0 +1,133 @@
+header{
+	background:  #719090;
+	height: 65px;
+	
+}
+
+.cabeza{
+	text-align: center;
+	padding: 10px;
+}
+
+.Aprende{
+	margin: 30px;
+	padding: 10px;
+	font-size: 33px;
+	text-align: center;	
+}
+
+
+.texto{
+	margin: 35px;
+	font-size: 30px;
+	text-align: center;
+}
+
+
+.comer{
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+}
+
+.izqui{
+	float: left;
+	width: 100px;
+	height: 100px;
+}
+
+.dere{
+	float: right;
+	width: 100px;
+	height: 100p
+}
+
+.dc{
+	margin: 28px;
+	font-size: 28px;
+	text-align: center;
+}
+
+.ejer{
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+}
+
+.ejercicios{
+	margin: 35px;
+	font-size: 28px;
+	text-align: center;
+}
+
+.bebida{
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+}
+
+.bs{
+	margin: 35px;
+	font-size: 28px;
+	text-align: center;
+}
+
+.bebidietica{
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+}
+
+.dietica{
+	margin: 35px;
+	font-size: 28px;
+	text-align: center;
+}
+
+.sabor{
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+}
+
+.aguasabor{
+	margin: 35px;
+	font-size: 28px;
+	text-align: center;
+}
+
+.energetica{
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+}
+
+.energia{
+	margin: 35px;
+	font-size: 28px;
+	text-align: center;
+}
+
+.bebidacafe{
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+}
+
+.cafe{
+	margin: 35px;
+	font-size: 28px;
+	text-align: center;
+}
+
+.ensalada{
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+}	
+
+.ensa{
+	margin: 35px;
+	font-size: 28px;
+	text-align: center;
+}
